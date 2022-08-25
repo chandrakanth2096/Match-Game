@@ -1,0 +1,42 @@
+* {
+  font-family: 'Roboto';
+  color: #fff;
+}
+
+.time {
+  background-color: #2c0e3a;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 40px 10px 40px;
+}
+
+.scores {
+  display: flex;
+  align-items: center;
+}
+.timer {
+  display: flex;
+  align-items: center;
+  margin-left: 30px;
+}
+.logo {
+  width: 140px;
+  height: 30px;
+}
+.clock {
+  width: 20px;
+  height: 20px;
+}
+.score {
+  font-size: 18px;
+}
+.count {
+  color: #fec653;
+  font-size: 22px;
+}
+.sec {
+  font-size: 18px;
+  margin-left: 10px;
+  color: #fec653;
+}
